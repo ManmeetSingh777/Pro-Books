@@ -1,0 +1,24 @@
+.book-title {
+    color: black;
+    font-size: 18px;
+  }
+  
+  .book-container {
+    margin-bottom: 20px;
+  }
+  
+  .book-image {
+    width: 100px;
+    height: 150px;
+    margin-right: 20px;
+  }
+  
+  .book-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .book-author {
+    margin-top: 5px;
+    text-align: center;
+  }
